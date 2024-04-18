@@ -5,4 +5,4 @@ Built using ReactJS, TailwindCSS, Framer Motion.
 
 ## Live Deployment
 
-### View the project `[HERE](https://kanban-board-productivity.vercel.app/)`
+View the project [HERE](https://kanban-board-productivity.vercel.app/)
